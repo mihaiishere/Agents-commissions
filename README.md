@@ -1,6 +1,7 @@
 # Agents Commissions VBA macro
 
-In this project a we'll explore a macro that was designed based on a request from accounting.
+In this project a we'll explore a macro that was designed based on a request from accounting in order to summarize agents' commissions.
+
 Since the data was originated from internal systems, I decided to generate dummy data using python. In order to see the process of generating data, please take a look [here] (https://github.com/mihaiishere/Agents-commissions/blob/main/agents_data.ipynb).
 
 ## Excel Planning and Presentation
